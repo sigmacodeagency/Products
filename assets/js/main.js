@@ -184,8 +184,8 @@
     draggable: true,
     speed: 900,
     infinite: true,
-    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></button>',
-    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></button>',
+    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></a>',
+    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></a>',
     responsive: [
       {
         breakpoint: 1199,
@@ -234,8 +234,8 @@
     draggable: true,
     speed: 900,
     infinite: true,
-    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></button>',
-    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></button>',
+    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></a>',
+    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></a>',
     responsive: [
       {
         breakpoint: 991,
@@ -272,8 +272,8 @@
     draggable: true,
     speed: 900,
     infinite: true,
-    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></button>',
-    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></button>',
+    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></a>',
+    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></a>',
     responsive: [
       {
         breakpoint: 991,
@@ -298,8 +298,8 @@
     draggable: true,
     speed: 900,
     infinite: true,
-    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></button>',
-    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></button>',
+    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></a>',
+    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></a>',
     responsive: [
       {
         breakpoint: 1199,
@@ -336,8 +336,8 @@
     draggable: true,
     speed: 900,
     infinite: true,
-    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></button>',
-    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></button>',
+    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></a>',
+    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></a>',
     responsive: [
       {
         breakpoint: 1199,
@@ -381,8 +381,8 @@
     draggable: true,
     speed: 900,
     infinite: true,
-    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></button>',
-    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></button>',
+    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></a>',
+    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></a>',
     responsive: [
       {
         breakpoint: 1199,
@@ -444,8 +444,8 @@
     draggable: true,
     speed: 900,
     infinite: true,
-    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></button>',
-    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></button>',
+    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></a>',
+    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></a>',
     responsive: [
       {
         breakpoint: 1199,
@@ -476,8 +476,8 @@
     draggable: true,
     speed: 900,
     infinite: true,
-    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></button>',
-    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></button>',
+    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></a>',
+    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></a>',
     responsive: [
       {
         breakpoint: 1199,
@@ -509,8 +509,8 @@
     dots: true,
     fade: true,
     asNavFor: '.testimonial-three-item-slider',
-    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></button>',
-    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></button>',
+    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></a>',
+    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></a>',
     responsive: [
       {
         breakpoint: 991,
@@ -560,8 +560,8 @@
     draggable: true,
     speed: 900,
     infinite: true,
-    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></button>',
-    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></button>',
+    prevArrow: '<button type="button" class="slick-prev"><i class="las la-arrow-left"></i></a>',
+    nextArrow: '<button type="button" class="slick-next"><i class="las la-arrow-right"></i></a>',
     responsive: [
       {
         breakpoint: 1299,
